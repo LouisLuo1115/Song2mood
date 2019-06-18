@@ -1,2 +1,4 @@
 *.h5
-./trained_model/*
+./trained_model/2019419/_e_28
+./trained_model/2019618/_e_16
+*.pkl
